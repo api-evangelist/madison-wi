@@ -1,0 +1,42 @@
+{
+    "name": "Madison, WI",
+    "description": "The City of Madison Data initiative increases the availability of city data using open standards which will make the operation of city government more transparent, effective and accountable to the public. To encourage open access to government data, the City of Madison publishes a wide range of approved city datasets and makes them available at the City of Madison Data portal.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-03-08-pm.jpg",
+    "tags": [
+        "api provider",
+        "city government",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/madison-wi\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Madison, WI",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-03-08-pm.jpg",
+            "humanURL": "https:\/\/data.cityofmadison.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/madison-wi-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/madison-wi-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/data.cityofmadison.com\/"
+        }
+    ]
+}
